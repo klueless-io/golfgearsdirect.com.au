@@ -1,0 +1,128 @@
+body {
+    font-family: Lato,'Helvetica Neue',Arial,sans-serif;
+    color: #5f5e5a;
+}
+
+.bg-primary {
+    background-color: #2A2822;
+}
+
+
+.bg-primary h2.section-heading {
+    color: #fff;
+}
+
+h1 {
+    color: #233d09;
+}
+h2.section-heading {
+    color: #233d09;
+}
+h2, h2.list-title, h2.list-title a {
+    color: #233d09;
+}
+
+a {
+    color: #a2d951;
+}
+
+p {
+    /* margin-bottom: 20px; */
+    font-size: 16px;
+    /* line-height: 1.5; */
+
+    margin: 0 0 15px;
+    font-style: normal;
+    line-height: 1.8em;
+}
+
+
+.blog_meta span {
+    position: relative;
+    display: inline-block;
+    margin-right: 15px;
+    font-size: smaller;
+    color: #808080;
+}
+
+.section-heading {
+    text-transform: uppercase;
+}
+.navbar-default .navbar-header .navbar-brand {
+    color: #233d09;
+}
+.navbar-default .nav>li>a,
+.navbar-default .nav>li>a:focus {
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 700;
+    color: #233d09;
+}
+
+.navbar-default .nav>li>a:hover,
+.navbar-default .nav>li>a:focus:hover {
+    color: #BF9000 !important;
+
+}
+.navbar-default .nav>li.active>a,
+.navbar-default .nav>li.active>a:focus {
+    color: #BF9000;
+    
+}
+.navbar-default.affix .navbar-header .navbar-brand {
+    color: #BF9000;
+}
+.navbar-default.affix .nav>li>a:hover,
+.navbar-default.affix .nav>li>a:focus:hover {
+    color: #BF9000;
+}
+
+@media(min-width:768px) {
+    .navbar-default {
+        background-color: rgb(215,212, 221, .4);
+    }
+}
+
+hr {
+    border-color: #2A2822;
+}
+
+footer {
+    margin-top: 50px;
+}
+
+ul.footer_menu {
+    list-style: none;
+}
+
+.footer_menu a {
+    color: #a2d951;
+}
+
+.navbar-default .nav>li>a:focus:hover {
+    color: #2A2822;
+}
+
+.posts h2 {
+    text-transform: uppercase;
+}
+
+.posts img {
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
+}
+ 
+.pagination > li > a {
+    color: #a2d951;
+    border: none;
+}
+.pagination > li.disabled > span {
+    color: #a2d951;
+    border: none;
+}
+.pagination > li.active > a,
+.pagination > li > a:hover {
+    color: #5f5e5a;
+    background-color: #e3e3e3;
+}

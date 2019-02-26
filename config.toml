@@ -1,4 +1,4 @@
-baseurl = "golfgearsdirect.com"
+baseurl = "https://golfgearsdirect.com"
 languageCode = "en-au"
 title = "Golf Gears Direct"
 theme = "hugo-creative-theme"
@@ -42,7 +42,7 @@ paginate = 12
 			about     			= "About"
 			testimonials    	= "Testimonials"
 			services  			= "Services"
-			portfolio 			= "Portfolio"
+			portfolio 			= ""
 			contact   			= "Contact"
 			blog				= "News"
 

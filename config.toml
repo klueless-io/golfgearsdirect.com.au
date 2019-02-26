@@ -42,7 +42,7 @@ paginate = 12
 			about     			= "About"
 			testimonials    	= "Testimonials"
 			services  			= "Services"
-			portfolio 			= ""
+			portfolio 			= "More Info"
 			contact   			= "Contact"
 			blog				= "News"
 

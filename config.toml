@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "golfgearsdirect.com"
 languageCode = "en-au"
 title = "Golf Gears Direct"
 theme = "hugo-creative-theme"

@@ -11,4 +11,4 @@ We love to hear from you.
 
 Chat with us using Facebook live chat
 
-<a href="https://www.facebook.com/activefelinesolutions" target="_blank">Send us a Message</a>
+<a href="https://www.facebook.com/golfgearsdirect" target="_blank">Send us a Message</a>

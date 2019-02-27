@@ -12,11 +12,11 @@ As soon as you place your order, you will receive an order confirmation e-mail. 
 
 Order Shipment:
 
-If your order is stock and we process the charges to your credit card, it will ship within five business days from the date of your order.  We will send you tracking information within 24 hours of your order leaving the warehouse to the e-mail address you provide when checking out.  If you do not receive tracking information from us within six business days of your order, feel free to follow up with us at **order@activefelinesolutions.com**
+If your order is stock and we process the charges to your credit card, it will ship within five business days from the date of your order.  We will send you tracking information within 24 hours of your order leaving the warehouse to the e-mail address you provide when checking out.  If you do not receive tracking information from us within six business days of your order, feel free to follow up with us at **order@golfgearsdirect.com.au**
 
 Damages:
 
-Please inspect the packaging of your item(s) when they arrive, if you notice any damage you should make note of it when signing for delivery.  If your item(s) do arrive damaged, please send photos to **returns@activefelinesolutions.com** and we will process an insurance claim on your behalf.
+Please inspect the packaging of your item(s) when they arrive, if you notice any damage you should make note of it when signing for delivery.  If your item(s) do arrive damaged, please send photos to **returns@golfgearsdirect.com.au** and we will process an insurance claim on your behalf.
 
 Cancellations & Refunds:
 

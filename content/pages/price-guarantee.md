@@ -7,7 +7,7 @@ categories: []
 ---
 
 
-Our team at [activefelinesolutions.com](http://activefelinesolutions.com) work very hard to ensure that we offer the absolute best prices online.  If you find another online store that offers a lower price then us within six months of your purchase date please let us know and we will refund your original payment for the difference.  We want you to feel confident that you are getting the absolute best price for the product you are ordering.  If you find that our own website has a lower price for the same item you have ordered within six months of your purchase date will refund the difference as well.
+Our team at [golfgearsdirect.com.au](https://golfgearsdirect.com.au) work very hard to ensure that we offer the absolute best prices online.  If you find another online store that offers a lower price then us within six months of your purchase date please let us know and we will refund your original payment for the difference.  We want you to feel confident that you are getting the absolute best price for the product you are ordering.  If you find that our own website has a lower price for the same item you have ordered within six months of your purchase date will refund the difference as well.
 
 To request your partial refund simply e-mail us a link to the same product on our website, or on our competitor's website within six months from the date of your order and we will process the credit accordingly.
 

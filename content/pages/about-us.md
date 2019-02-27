@@ -6,11 +6,11 @@ tags: []
 categories: []
 ---
 
-[activefelinesolutions.com.au](activefelinesolutions.com.au) is an online retailer providing competitive prices on **Cat Scratching Post**. We aim to provide a memorable experience when you shop on our online store by offering quality products with top-rated customer service.
+[golfgearsdirect.com.au](golfgearsdirect.com.au) is an online retailer providing competitive prices on **Gold Caddies**. We aim to provide a memorable experience when you shop on our online store by offering quality products with top-rated customer service.
 
 
 We are based in **Sydney**, with offices **nationwide**. We distribute throughout **Australia** via DirectFreight, National, TransDirect, FedEx, UPS, and First Class Priority Mail.
 
-We have a great team and aim to grow our business more and more, offering our customers the best **Cat Scratching Post** available.
+We have a great team and aim to grow our business more and more, offering our customers the best **Gold Caddies** available.
 
 If you have any questions about our products or would like to check the availability of an item, please use the [Contact Us](/pages/contact-us) page to get in touch.

@@ -2,7 +2,7 @@ baseurl = "https://golfgearsdirect.com"
 languageCode = "en-au"
 title = "Golf Gears Direct"
 theme = "hugo-creative-theme"
-googleAnalytics = ""
+googleAnalytics = "UA-111712204-1"
 paginate = 12
 
 [taxonomies]

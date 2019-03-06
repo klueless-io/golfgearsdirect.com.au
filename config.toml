@@ -1,4 +1,4 @@
-baseurl = "https://golfgearsdirect.com"
+baseurl = "https://golfgearsdirect.com.au"
 languageCode = "en-au"
 title = "Golf Gears Direct"
 theme = "hugo-creative-theme"
@@ -26,7 +26,7 @@ paginate = 12
 	# To provide some metadata for search engines feel free to add some
 	# information about you and your website.
 	name = "Golf Gears Direct"
-	description = "Keeping your furry friends entertained and Active while preserving your beloved furniture from their sharp claws, Golf Gears Direct for scratch problems"
+	description = "golfgearsdirect.com.au is an online retailer providing competitive prices on Caddies. We aim to provide a memorable experience when you shop online."
 	copyright = "Copyright 2007-{year} Example LLC. All rights reserved."
 
 	# The path must be relative to the static folder
@@ -36,7 +36,7 @@ paginate = 12
 	# Navigation
 	[params.navigation]
 		brand = "Golf Gears Direct"
-		brand_logo = "img/logo_40h.png"
+		brand_logo = "img/logo-40h.png"
 
 		[params.navigation.links]
 			about     			= "About"
